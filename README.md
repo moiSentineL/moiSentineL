@@ -18,7 +18,7 @@
 
 </p>
 </details>
-
+<hr>
 <details>
   <summary><b>Languages</b></summary>
 <p>
@@ -27,7 +27,7 @@
 
 </p>
 </details>
-
+<hr>
 <details>
   <summary><b>My Stats</b></summary>
 
@@ -37,4 +37,4 @@
 
 </p>
 </details>
-
+<hr>
