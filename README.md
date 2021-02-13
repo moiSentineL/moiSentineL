@@ -23,7 +23,7 @@
   <summary><b>Languages</b></summary>
 <p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiSentineL)](https://github.com/moiSentineL/moiSentineL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiSentineL)
 
 </p>
 </details>
