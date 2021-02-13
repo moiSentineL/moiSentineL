@@ -9,7 +9,7 @@
 * ⚡ Fun fact: I am a metalhead. A big one.
 
 <details>
-  <summary>**Area of Expertise**</summary>
+  <summary><b>Area of Expertise</summary>
 <p>
   
 * Games
