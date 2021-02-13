@@ -8,7 +8,7 @@
 * 📫 How to reach me: Discord (moisentinel#7620), [Steam](https://steamcommunity.com/id/moisentinel/), [Twitter](https://twitter.com/moisentinel).
 * ⚡ Fun fact: I am a metalhead. A big one.
 
-<details><summary>#### Area of Expertise</summary>
+<details><summary><h4>Area of Expertise</summary>
 <p>
   
 * Games
