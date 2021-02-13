@@ -13,8 +13,8 @@
 <p>
   
 * <b>Games</b>
-* Music
-* Ur Mom:grimacing:
+* <b>Music</b>
+* <b>Ur Mom:smirk:</b>
 
 </p>
 </details>
