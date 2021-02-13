@@ -11,10 +11,10 @@
 <details>
   <summary><span style="font-weight:bold"> Area Of Expertise</span></summary>
 <p>
-<span style="font-weight:normal"> 
+
 * Games
 * Music
 * Ur Mom:grimacing:
-</span>
+
 </p>
 </details>
