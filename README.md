@@ -12,7 +12,7 @@
   <summary><b>Area of Expertise</b></summary>
 <p>
   
-* Games
+* <b>Games</b>
 * Music
 * Ur Mom:grimacing:
 
