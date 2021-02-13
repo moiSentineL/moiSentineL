@@ -11,6 +11,7 @@
 <details>
   <summary><b>Area of Expertise</b></summary>
 <p>
+  
 * Games
 * Music
 * Ur Mom:grimacing:
