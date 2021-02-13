@@ -9,12 +9,12 @@
 * ⚡ Fun fact: I am a metalhead. A big one.
 
 <details>
-  <summary><h1>This text should be bold</summary>
+  <summary><span style="font-weight:bold"> Area Of Expertise</span></summary>
 <p>
 <span style="font-weight:normal"> 
 * Games
 * Music
 * Ur Mom:grimacing:
-</span></h1>
+</span>
 </p>
 </details>
