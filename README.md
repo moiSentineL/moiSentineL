@@ -19,3 +19,4 @@
 </p>
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiSentineL)](https://github.com/moiSentineL/moiSentineL)
