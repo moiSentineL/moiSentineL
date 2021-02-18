@@ -1,6 +1,5 @@
 ## Hey Stranger :raised_hands:
 
-<img align= "right" src="https://tenor.com/view/jack-nicholson-yes-nod-agree-gif-9864414">
 
 * 🔭 I’m currently working on to improve myself
 * 🌱 I’m currently learning [Python](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
