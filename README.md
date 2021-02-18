@@ -1,6 +1,6 @@
 ## Hey Stranger :raised_hands:
 
-<img align='right' src="https://tenor.com/view/jack-nicholson-yes-gif-9864414" width="230">
+<div class="tenor-gif-embed" data-postid="9864414" data-share-method="host" data-width="100%" data-aspect-ratio="1.2575757575757576"><a href="https://tenor.com/view/jack-nicholson-yes-gif-9864414">Jack Nicholson Yes GIF</a> from <a href="https://tenor.com/search/jacknicholson-gifs">Jacknicholson GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 * 🔭 I’m currently working on to improve myself
 * 🌱 I’m currently learning [Python](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
