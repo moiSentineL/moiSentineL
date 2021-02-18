@@ -1,5 +1,6 @@
 ## Hey Stranger :raised_hands:
 
+<img align='right' src="https://media1.tenor.com/images/7aa72b0010fa20046550d99fdbc7f0ec/tenor.gif?itemid=9864414" width="230">
 
 * 🔭 I’m currently working on to improve myself
 * 🌱 I’m currently learning [Python](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
