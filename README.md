@@ -1,1 +1,1 @@
-there's nothing to see.
+such is life.
