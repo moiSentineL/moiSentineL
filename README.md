@@ -7,7 +7,7 @@ I am Nibir, just another user with an ulterior motive to get more stars and spon
 
 ### What I like to build (and what I've built):
 - Automations: [pdflinkextractor](https://github.com/moiSentineL/pdflinkextractor)
-- Scholarly stuff: [explanatory](https://github.com/moiSentineL/explanatory), [tenthnotes](https://github.com/moiSentineL/tenthnotes)
+- Scholarly stuff: [explanatory](https://github.com/moiSentineL/explanatory), [tenthnotes](https://github.com/moiSentineL/tenthnotes), [grade11-cs-ip](https://github.com/moiSentineL/grade11-cs-ip)
 - Making knowledge more accessible: [oxford-general-philosophy-2009](https://github.com/moiSentineL/oxford-general-philosophy-2009)
 - Programs which make life easier: [flomo](https://github.com/moiSentineL/flomo), [dicto](https://github.com/moiSentineL/dicto)
 
