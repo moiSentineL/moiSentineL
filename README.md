@@ -22,7 +22,7 @@ I don't only code, [I do more stuff](https://nibirsan.org/)!
 
 <div align="center">
 <h2>Support Me</h2>
-<a href="bruh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
-<a href="bruh"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0chai_(UPI)-63452c?logo=mocha&logoColor=f5f5f5"></a>
+<a href="https://buymeacoffee.com/nibirsan"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
+<a href="https://run.nibirsan.org/support"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0chai_(UPI)-63452c?logo=mocha&logoColor=f5f5f5"></a>
 <p><em>Never forget, you are SUPER cool!</em></p>
 </div>
