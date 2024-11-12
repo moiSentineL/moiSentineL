@@ -3,6 +3,11 @@
 Hello There!
 </h1>
 
+<p align="center">
+<em><strong>"We live so that we may build"</strong></em>
+- (not) Albert Einstein
+</p>
+
 I am Nibir, just another user with an ulterior motive to get more stars and sponsors. Just kidding! **I am here to build cool stuff!** 
 
 ### What I like to build (and what I've built):
