@@ -24,5 +24,5 @@ I don't only code, [I do more stuff](https://nibirsan.org/)!
 <h2>Support Me</h2>
 <a href="https://buymeacoffee.com/nibirsan"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee"></a>
 <a href="https://run.nibirsan.org/support"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0chai_(UPI)-63452c?logo=mocha&logoColor=f5f5f5"></a>
-<p><em>Never forget, you are SUPER cool!</em></p>
+<p><sup>Never forget, you are SUPER cool!</sup></p>
 </div>
