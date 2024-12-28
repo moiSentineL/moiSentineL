@@ -11,10 +11,10 @@ Hello There!
 I am Nibir, just another user with an ulterior motive to get more stars and sponsors. Just kidding! **I am here to build cool stuff!** 
 
 ### What I like to build (and what I've built):
-- Automations: [pdflinkextractor](https://github.com/moiSentineL/pdflinkextractor)
+- Programs which make life easier: [litter](https://github.com/moiSentineL/litter), [flomo](https://github.com/moiSentineL/flomo), [dicto](https://github.com/moiSentineL/dicto) and [pdflinkextractor](https://github.com/moiSentineL/pdflinkextractor)
 - Scholarly stuff: [explanatory](https://github.com/moiSentineL/explanatory), [tenthnotes](https://github.com/moiSentineL/tenthnotes), [grade11-cs-ip](https://github.com/moiSentineL/grade11-cs-ip)
 - Making knowledge more accessible: [oxford-general-philosophy-2009](https://github.com/moiSentineL/oxford-general-philosophy-2009)
-- Programs which make life easier: [flomo](https://github.com/moiSentineL/flomo), [dicto](https://github.com/moiSentineL/dicto)
+- Linux et. al: [dotfiles](https://github.com/moiSentineL/dotfiles), [mpv-settings](https://github.com/moiSentineL/mpv-settings)
 
 ### Some of my beliefs on building:
 - Open-sourcing is better than proprietary development.
@@ -23,7 +23,7 @@ I am Nibir, just another user with an ulterior motive to get more stars and spon
 
 Unless noted, most of my repositories are licensed under [Creative Commons](https://creativecommons.org/) or [not licensed](https://unlicense.org/) at all! 
 
-I don't only code, [I do more stuff](https://nibirsan.org/)! 
+### I don't only code, [I do more stuff](https://nibirsan.org/)! 
 
 <div align="center">
 <h2>Support Me</h2>
